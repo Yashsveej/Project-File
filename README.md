@@ -1,6 +1,5 @@
 # Employee Attrition Prediction Model Deployment
 
-
 ## Overview
 This dataset contains information about employees, including both numerical and categorical features. It is used for predicting employee attrition- employee will leave or not depending on the features.This project involves deploying a machine learning model using Docker and Flask. The deployment is achieved through a Docker container with a Flask API.
 
